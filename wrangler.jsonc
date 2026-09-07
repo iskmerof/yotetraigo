@@ -1,0 +1,21 @@
+{
+  "name": "yotetraigo",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-05-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "yotetraigo-db",
+      "database_id": "d95b7fb8-7ff3-48e2-865c-bb61e7a4b8fd"
+    }
+  ],
+  "send_email": [
+    {
+      "name": "EMAIL"
+    }
+  ],
+  "assets": {
+    "directory": "./public"
+  }
+}
