@@ -1,5 +1,6 @@
 import { EmailMessage } from 'cloudflare:email';
 import { createMimeMessage } from 'mimetext';
+// git-deploy-test: verifying Cloudflare Workers Builds git integration
 
 export default {
   async fetch(request, env) {
