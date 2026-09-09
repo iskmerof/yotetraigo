@@ -3,18 +3,29 @@
   "pages": [
     {
       "slug": "agente-de-envios-estados-unidos-ecuador",
-      "status": "pending",
+      "status": "published",
       "title_direction": "Agente de envios: Estados Unidos a Ecuador",
       "primary_keyword": "agente de envios Estados Unidos Ecuador",
-      "also_target": ["negocio de envios a Ecuador", "negocio de courier Ecuador", "como iniciar un negocio de envios", "agente de paqueteria Ecuador", "envios a Ecuador desde Estados Unidos para negocios", "socio logistico para Ecuador"],
-      "brief": "Two audiences in one page: (1) Ecuador-based people/small businesses who already move packages informally for others and want to formalize it as a real business, (2) USA-based Ecuadorian community businesses (leans on the Nueva York angle) who want a logistics partner. Positioning per the approved homepage copy: 'Tienes clientes que compran en USA? Convierte esos clientes en un negocio de envios a Ecuador.' Cover: how the agent model works, preferential volume rates, EquaLatin backing, WhatsApp support. Link to homepage #agentes section."
+      "also_target": [
+        "negocio de envios a Ecuador",
+        "negocio de courier Ecuador",
+        "como iniciar un negocio de envios",
+        "agente de paqueteria Ecuador",
+        "envios a Ecuador desde Estados Unidos para negocios",
+        "socio logistico para Ecuador"
+      ],
+      "brief": "Two audiences in one page: (1) Ecuador-based people/small businesses who already move packages informally for others and want to formalize it as a real business, (2) USA-based Ecuadorian community businesses (leans on the Nueva York angle) who want a logistics partner. Positioning per the approved homepage copy: 'Tienes clientes que compran en USA? Convierte esos clientes en un negocio de envios a Ecuador.' Cover: how the agent model works, preferential volume rates, EquaLatin backing, WhatsApp support. Link to homepage #agentes section.",
+      "published_date": "2026-09-09"
     },
     {
       "slug": "comprar-en-walmart-desde-ecuador",
       "status": "pending",
       "title_direction": "Como comprar en Walmart desde Ecuador",
       "primary_keyword": "comprar en Walmart desde Ecuador",
-      "also_target": ["como comprar en Walmart desde Ecuador", "traer Walmart de USA a Ecuador"],
+      "also_target": [
+        "como comprar en Walmart desde Ecuador",
+        "traer Walmart de USA a Ecuador"
+      ],
       "brief": "Store guide following the 'Como comprar en [Tienda] desde Ecuador' formula. Real specifics about Walmart.com (broad general-merchandise catalog, competitive prices on electronics/home goods), how to set the YoTeTraigo Nueva York address at checkout, what categories are worth it under regimen 4x4 vs Categoria C. Not a template swap -- Walmart's value prop (breadth + price) is different from Amazon's (selection) or Nike's (exclusives)."
     },
     {
@@ -22,7 +33,10 @@
       "status": "pending",
       "title_direction": "Como comprar en Apple desde Ecuador",
       "primary_keyword": "comprar en Apple desde Ecuador",
-      "also_target": ["comprar iPhone en USA y traerlo a Ecuador", "traer Apple de USA a Ecuador"],
+      "also_target": [
+        "comprar iPhone en USA y traerlo a Ecuador",
+        "traer Apple de USA a Ecuador"
+      ],
       "brief": "Store guide. IMPORTANT: iPhones/laptops fall under Categoria C (IVA 15%, NOT regimen 4x4 per existing site facts) and there's a stated 1-celular-nuevo-por-persona-por-ano limit via courier -- reuse these exact facts from faq/courier-usa-ecuador.html and faq/cuanto-cuesta-traer-paquete-usa-ecuador.html, do not invent new limits. Cover buying on apple.com, AppleCare considerations, and realistic cost math using the site's own worked-example pattern."
     },
     {
@@ -30,7 +44,10 @@
       "status": "pending",
       "title_direction": "Como comprar Nike desde Ecuador",
       "primary_keyword": "comprar zapatos Nike en USA y traerlos a Ecuador",
-      "also_target": ["comprar en Nike desde Ecuador", "cuanto ahorro comprando Nike en USA"],
+      "also_target": [
+        "comprar en Nike desde Ecuador",
+        "cuanto ahorro comprando Nike en USA"
+      ],
       "brief": "Store guide focused on footwear/apparel: US-exclusive colorways and sizes, Nike Members early access, SNKRS app considerations for release drops. Realistic cost comparison vs Ecuador retail."
     },
     {
@@ -38,7 +55,9 @@
       "status": "pending",
       "title_direction": "Como comprar en Best Buy desde Ecuador",
       "primary_keyword": "comprar en Best Buy desde Ecuador",
-      "also_target": ["traer electronica de Best Buy a Ecuador"],
+      "also_target": [
+        "traer electronica de Best Buy a Ecuador"
+      ],
       "brief": "Store guide for electronics/appliances: open-box deals, Best Buy exclusives, contrast with Amazon (curated tech retailer vs marketplace)."
     },
     {
@@ -46,7 +65,9 @@
       "status": "pending",
       "title_direction": "Como comprar en eBay desde Ecuador",
       "primary_keyword": "comprar en eBay desde Ecuador",
-      "also_target": ["traer eBay de USA a Ecuador"],
+      "also_target": [
+        "traer eBay de USA a Ecuador"
+      ],
       "brief": "Store guide with an important nuance eBay-specific: many sellers are individuals/small shops, not eBay itself, so shipping policies vary per listing -- explain how a US casillero address solves 'ships to US only' listings, and flag that buyer protection/returns differ from Amazon."
     },
     {
@@ -54,7 +75,9 @@
       "status": "pending",
       "title_direction": "Como comprar en SHEIN desde Ecuador",
       "primary_keyword": "comprar en SHEIN desde Ecuador",
-      "also_target": ["traer SHEIN de USA a Ecuador"],
+      "also_target": [
+        "traer SHEIN de USA a Ecuador"
+      ],
       "brief": "Note: SHEIN already ships to Ecuador directly in many cases -- be factually careful here, do not claim it doesn't ship to Ecuador if that's not verified. Frame the page around the actual value prop: consolidating SHEIN orders with other US purchases into one flat-rate YoTeTraigo shipment instead of paying SHEIN's own international shipping per order, and using the US site's fuller catalog/sizing vs the Ecuador storefront if one exists. Flag uncertainty rather than asserting shipping behavior you can't confirm."
     },
     {
@@ -62,7 +85,9 @@
       "status": "pending",
       "title_direction": "Como comprar en Target desde Ecuador",
       "primary_keyword": "comprar en Target desde Ecuador",
-      "also_target": ["traer Target de USA a Ecuador"],
+      "also_target": [
+        "traer Target de USA a Ecuador"
+      ],
       "brief": "Store guide: home goods, seasonal/holiday exclusives, Target-owned brands not sold in Ecuador."
     },
     {
@@ -70,7 +95,9 @@
       "status": "pending",
       "title_direction": "Direccion en Estados Unidos para comprar desde Ecuador",
       "primary_keyword": "direccion en Estados Unidos para comprar desde Ecuador",
-      "also_target": ["direccion en USA para compras online Ecuador"],
+      "also_target": [
+        "direccion en USA para compras online Ecuador"
+      ],
       "brief": "Practical, high-intent page for someone who just needs 'an address in the US' -- what it looks like, how to get one free with YoTeTraigo, how to use it at checkout (name format, apartment/suite number conventions), which stores commonly reject non-US phone numbers and how to handle that. Different angle from que-es-un-casillero-virtual.html (which is definitional+ranking) -- this one is purely practical/how-to."
     },
     {
@@ -78,7 +105,10 @@
       "status": "pending",
       "title_direction": "Consolidar paquetes de USA a Ecuador",
       "primary_keyword": "consolidacion de paquetes miami ecuador",
-      "also_target": ["consolidar paquetes USA Ecuador", "juntar compras en un solo envio"],
+      "also_target": [
+        "consolidar paquetes USA Ecuador",
+        "juntar compras en un solo envio"
+      ],
       "brief": "Explain consolidation specifically: why/when it saves money (flat rate per weight tier means combining purchases avoids paying multiple flat fees), how long YoTeTraigo holds packages before you decide to ship, practical example with real math using the $30/4lb-$50/8lb tiers."
     },
     {
@@ -86,7 +116,9 @@
       "status": "pending",
       "title_direction": "Como traer paquetes de USA a Ecuador (guia paso a paso)",
       "primary_keyword": "como traer paquetes de Estados Unidos a Ecuador",
-      "also_target": ["como enviar paquetes a ecuador sin impuestos"],
+      "also_target": [
+        "como enviar paquetes a ecuador sin impuestos"
+      ],
       "brief": "IMPORTANT -- differentiate clearly from faq/courier-usa-ecuador.html (which is pricing/comparison-focused). This page is a pure step-by-step howto for someone with zero context: what a casillero is, registering, the exact checkout process, what happens after you ship, receiving in Ecuador. Written for a first-time user, more tutorial than FAQ."
     },
     {
@@ -94,7 +126,9 @@
       "status": "pending",
       "title_direction": "Casillero virtual vs envio internacional directo: cual conviene",
       "primary_keyword": "casillero vs envio internacional directo",
-      "also_target": ["conviene mas un casillero o envio directo"],
+      "also_target": [
+        "conviene mas un casillero o envio directo"
+      ],
       "brief": "Comparison content, factual not promotional per the runbook's own editorial rule. Structure: cost per item when a store DOES ship directly to Ecuador (often high per-order international shipping) vs consolidating multiple purchases through a casillero's flat rate. Be honest about when direct international shipping actually wins (e.g. a single large/heavy item, or a store with genuinely cheap direct Ecuador shipping) -- don't oversell the casillero model where it doesn't fit."
     },
     {
@@ -102,7 +136,10 @@
       "status": "pending",
       "title_direction": "Que puedo y que no puedo traer de Estados Unidos a Ecuador",
       "primary_keyword": "que puedo traer de Estados Unidos a Ecuador",
-      "also_target": ["que no puedo enviar de USA a Ecuador", "articulos prohibidos aduana ecuador"],
+      "also_target": [
+        "que no puedo enviar de USA a Ecuador",
+        "articulos prohibidos aduana ecuador"
+      ],
       "brief": "Combined allowed/restricted-items guide (deliberately one page, not two, to avoid a thin 'what I can't ship' page). Reuse the restricted-items facts already stated on this site (medicamentos controlados, alimentos perecederos, baterias de litio sueltas -- from faq/courier-usa-ecuador.html and blog/top-10-casilleros-virtuales-usa-ecuador.html) rather than inventing a new list. Organize by category (tech, ropa, cosmeticos, alimentos, medicamentos) with a clear allowed/restricted/special-conditions column. Flag anything uncertain rather than asserting it as fact -- customs misinformation can get a real customer's package seized."
     }
   ]
