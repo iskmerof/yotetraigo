@@ -72,6 +72,7 @@
     th { background: #25d366; color: #fff; font-size: 13px; text-transform: uppercase; letter-spacing: 1px; }
     tr:last-child td { border-bottom: none; }
     .highlight-row { background: var(--accent); font-weight: 700; }
+    .callout { border: var(--border); background: #f8f7f2; padding: 18px 22px; margin: 20px 0 32px; font-size: 14px; }
     .faq-item { border: var(--border); margin-bottom: 16px; }
     .faq-q { padding: 20px 24px; font-weight: 700; font-size: 17px; }
     .faq-a { padding: 0 24px 20px; font-size: 15px; color: #444; line-height: 1.7; border-top: 2px solid #eee; padding-top: 16px; }
@@ -121,16 +122,18 @@
       <p class="article-meta">Publicado <time datetime="2021-06-09">9 jun 2021</time> · Actualizado <time datetime="2026-09-07">7 sep 2026</time></p>
       <p class="lead">El costo real de importar desde Estados Unidos tiene varios componentes: flete, aduana e impuestos. Operamos desde Nueva York: aqui te desglosamos todo para que no haya sorpresas.</p>
 
+      <div class="callout"><strong>Importante:</strong> los montos de impuestos y aduana de esta pagina son <strong>estimados de referencia</strong>. El valor final lo determina el aforo de SENAE/aduana al momento del despacho de tu paquete y puede ser mayor al estimado aqui.</div>
+
       <h2>Tabla de costos con YoTeTraigo</h2>
       <table>
         <tr><th>Peso</th><th>Flete</th><th>Seguro</th><th>Impuestos</th><th>Total</th></tr>
         <tr class="highlight-row"><td>Hasta 4kg (4x4)</td><td>$50</td><td>Incluido</td><td>$20 arancel fijo*</td><td><strong>~$70</strong></td></tr>
-        <tr><td>5-10kg</td><td>$8/lb</td><td>Incluido</td><td>~22%**</td><td>Variable</td></tr>
-        <tr><td>10-20kg</td><td>$7/lb</td><td>Incluido</td><td>~22%**</td><td>Variable</td></tr>
+        <tr><td>5-10kg</td><td>$8/lb</td><td>Incluido</td><td>~25%**</td><td>Variable</td></tr>
+        <tr><td>10-20kg</td><td>$7/lb</td><td>Incluido</td><td>~25%**</td><td>Variable</td></tr>
         <tr><td>Comercial</td><td>Cotizacion</td><td>Incluido</td><td>Variable</td><td>Cotizacion</td></tr>
       </table>
       <p style="font-size: 13px; color: #777; margin-bottom: 16px;">*Regimen 4x4: hasta 4kg y $400 FOB. Arancel fijo de $20 por paquete + FODINFA 0.5%. No aplica a celulares ni laptops.</p>
-      <p style="font-size: 13px; color: #777; margin-bottom: 32px;">**Fuera del 4x4 (Cat. B): arancel variable + IVA 15% + FODINFA 0.5%.</p>
+      <p style="font-size: 13px; color: #777; margin-bottom: 32px;">**Fuera del 4x4 (Cat. B) o Categoria C (celulares/laptops): arancel variable (o 0% en celulares) + IVA 15% + FODINFA 0.5%, mas un estimado para nacionalizacion e imprevistos -- suele sumar alrededor del <strong>25% del valor CIF</strong>. Estimado, sujeto a lo que determine SENAE al despachar.</p>
 
       <h2>Ejemplo 1: AirPods Pro (mercaderia general, 4x4)</h2>
       <table>
@@ -154,18 +157,18 @@
         <tr><td>Ad Valorem (0% celulares)</td><td>$0</td></tr>
         <tr><td>FODINFA (0.5%)</td><td>~$5</td></tr>
         <tr><td>IVA (15%)</td><td>~$157</td></tr>
-        <tr><td>Nacionalizacion + registro IMEI</td><td>~$56</td></tr>
-        <tr class="highlight-row"><td>Total en tu puerta en Ecuador</td><td><strong>~$1,267</strong></td></tr>
+        <tr><td>Nacionalizacion + imprevistos (estimado)</td><td>~$100</td></tr>
+        <tr class="highlight-row"><td>Total en tu puerta en Ecuador</td><td><strong>~$1,311</strong></td></tr>
         <tr><td>Precio en tienda ecuatoriana</td><td>~$1,500</td></tr>
-        <tr style="color: green;"><td><strong>Tu ahorro</strong></td><td><strong>~$233 (16%)</strong></td></tr>
+        <tr style="color: green;"><td><strong>Tu ahorro</strong></td><td><strong>~$189 (13%)</strong></td></tr>
       </table>
-      <p style="font-size: 13px; color: #777; margin-top: 8px;">Nota: Limite de 1 celular nuevo por persona al ano via courier. Laptops tienen reglas similares (Cat. C).</p>
+      <p style="font-size: 13px; color: #777; margin-top: 8px;">Nota: Limite de 1 celular nuevo por persona al ano via courier. Laptops tienen reglas similares (Cat. C). El total es un estimado (~25% del CIF en impuestos y tarifas) -- el monto exacto lo confirma SENAE/aduana al despachar y puede variar.</p>
 
       <h2>Preguntas frecuentes sobre costos</h2>
 
       <div class="faq-item">
         <div class="faq-q">Hay costos ocultos?</div>
-        <div class="faq-a">No. Nuestra tarifa de flete ($30/4 lb o $50/8 lb) incluye flete, seguro, manejo en almacen y fotos del paquete. Los impuestos de aduana son aparte y dependen de la categoria de tu producto: $20 fijo para mercaderia general bajo 4x4, o ~15-22% para celulares, laptops y paquetes fuera del 4x4. Siempre te informamos el costo total antes de enviar.</div>
+        <div class="faq-a">No. Nuestra tarifa de flete ($30/4 lb o $50/8 lb) incluye flete, seguro, manejo en almacen y fotos del paquete. Los impuestos de aduana son aparte y dependen de la categoria de tu producto: $20 fijo para mercaderia general bajo 4x4, o un estimado de ~25% para celulares, laptops y paquetes fuera del 4x4. Siempre te informamos el costo total estimado antes de enviar -- el monto final lo confirma SENAE/aduana al despachar tu paquete y puede ser mayor.</div>
       </div>
 
       <div class="faq-item">
