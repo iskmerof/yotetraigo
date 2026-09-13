@@ -31,14 +31,17 @@
     },
     {
       "slug": "comprar-en-apple-desde-ecuador",
-      "status": "pending",
-      "title_direction": "Como comprar en Apple desde Ecuador",
+      "status": "published",
+      "title_direction": "iPhone Duo (iPhone 18): cuanto cuesta traerlo a Ecuador",
       "primary_keyword": "comprar en Apple desde Ecuador",
       "also_target": [
         "comprar iPhone en USA y traerlo a Ecuador",
-        "traer Apple de USA a Ecuador"
+        "traer Apple de USA a Ecuador",
+        "iPhone Duo Ecuador",
+        "cuanto cuesta el iPhone Duo en Ecuador"
       ],
-      "brief": "Store guide. IMPORTANT: iPhones/laptops fall under Categoria C (IVA 15%, NOT regimen 4x4 per existing site facts) and there's a stated 1-celular-nuevo-por-persona-por-ano limit via courier -- reuse these exact facts from faq/courier-usa-ecuador.html and faq/cuanto-cuesta-traer-paquete-usa-ecuador.html, do not invent new limits. Cover buying on apple.com, AppleCare considerations, and realistic cost math using the site's own worked-example pattern."
+      "brief": "Published as a timely iPhone Duo (Apple's first foldable, announced 2026-09-09) cost-to-import calculator, per explicit user request, superseding the original generic Apple-store-guide brief. Categoria C (IVA 15%, NOT regimen 4x4) and the 1-celular-nuevo-por-persona-por-ano limit reused from faq/courier-usa-ecuador.html and faq/cuanto-cuesta-traer-paquete-usa-ecuador.html. Pricing ($1,999-$3,199 by storage) and launch-wave facts (preorder Oct 16, ships Oct 23, Ecuador not named in first two waves) sourced via live web search at publish time -- verify before reusing if this file is read much later, prices/dates may have changed post-launch.",
+      "published_date": "2026-09-13"
     },
     {
       "slug": "comprar-en-nike-desde-ecuador",

@@ -444,6 +444,75 @@
       50% { transform: scale(1.08); }
     }
 
+    /* Announcement */
+    .announce-bar {
+      border-bottom: var(--border);
+      background: #fff;
+      padding: 18px 0;
+    }
+
+    .announce-card {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      text-decoration: none;
+      color: var(--fg);
+      border: var(--border);
+      box-shadow: var(--shadow-sm);
+      padding: 14px 18px;
+      background: #fffdf7;
+      transition: all 0.15s;
+    }
+
+    .announce-card:hover {
+      box-shadow: 1px 1px 0 #1a1a1a;
+      transform: translate(2px, 2px);
+    }
+
+    .announce-thumb {
+      width: 64px;
+      height: 64px;
+      flex-shrink: 0;
+      object-fit: cover;
+      border: 2px solid var(--fg);
+    }
+
+    .announce-tag {
+      display: inline-block;
+      background: var(--accent);
+      border: 2px solid var(--fg);
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 2px 8px;
+      margin-bottom: 6px;
+    }
+
+    .announce-title {
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 1.3;
+    }
+
+    .announce-sub {
+      font-size: 13px;
+      color: #666;
+      margin-top: 2px;
+    }
+
+    .announce-arrow {
+      margin-left: auto;
+      font-size: 18px;
+      flex-shrink: 0;
+      padding-left: 12px;
+    }
+
+    @media (max-width: 640px) {
+      .announce-sub { display: none; }
+      .announce-title { font-size: 14px; }
+    }
+
     /* Trust Bar */
     .trust-bar {
       border-bottom: var(--border);
@@ -1246,6 +1315,21 @@
     </div>
   </section>
 
+  <!-- Announcement -->
+  <div class="announce-bar">
+    <div class="container">
+      <a href="/comprar-en-apple-desde-ecuador" class="announce-card" onclick="trackLead('announce_iphone_duo')">
+        <img src="/blog/apps_standby__b0akmv815b1e_large_2x.jpg" alt="iPhone Duo" class="announce-thumb">
+        <div>
+          <span class="announce-tag">Nuevo</span>
+          <div class="announce-title">iPhone Duo (iPhone 18) ya se puede reservar &mdash; calcula cuanto te cuesta traerlo</div>
+          <div class="announce-sub">Precio oficial, IVA e impuestos de aduana explicados. Adelantate al lanzamiento en Ecuador.</div>
+        </div>
+        <i class="fas fa-arrow-right announce-arrow"></i>
+      </a>
+    </div>
+  </div>
+
   <!-- Trust Bar -->
   <div class="trust-bar">
     <div class="container">
@@ -1463,6 +1547,7 @@
             <li><a href="/comprar-en-nueva-york-desde-ecuador">Comprar en Nueva York</a></li>
             <li><a href="/faq/como-comprar-en-amazon-desde-ecuador">Comprar en Amazon</a></li>
             <li><a href="/comprar-en-walmart-desde-ecuador">Comprar en Walmart</a></li>
+            <li><a href="/comprar-en-apple-desde-ecuador">iPhone Duo a Ecuador</a></li>
             <li><a href="/faq/regimen-4x4-ecuador">Regimen 4x4</a></li>
             <li><a href="/faq/cuanto-cuesta-traer-paquete-usa-ecuador">Calculadora de costos</a></li>
           </ul>
