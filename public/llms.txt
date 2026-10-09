@@ -14,6 +14,7 @@ Contacto y cotizacion: WhatsApp +1 (347) 529-5991 (https://wa.me/13475295991). E
 - [Como comprar en Walmart desde Ecuador](https://yotetraigo.com/comprar-en-walmart-desde-ecuador): guia de tienda especifica para Walmart.com.
 - [iPhone Duo (iPhone 18): cuanto cuesta traerlo a Ecuador](https://yotetraigo.com/comprar-en-apple-desde-ecuador): calculadora de costo real (flete + IVA + FODINFA + estimado) para el iPhone Duo por version de almacenamiento.
 - [Preguntale a ChatGPT sobre tu envio](https://yotetraigo.com/pregunta-a-chatgpt-envios-ecuador): prompt para copiar y pegar en un asistente de IA, con los datos de esta pagina como contexto.
+- [Categoria B, C y G del courier en Ecuador](https://yotetraigo.com/categorias-courier-ecuador-b-c-g): diferencias entre 4x4 (B), Categoria C y Categoria G (migrantes ecuatorianos con nucleo familiar registrado), limites, impuestos y cual usar desde Ecuador o desde USA.
 - [Blog](https://yotetraigo.com/blog/): guias y comparativas sobre envios y casilleros virtuales.
 - [Top 10 Casilleros Virtuales en USA para Ecuador (2026)](https://yotetraigo.com/blog/top-10-casilleros-virtuales-usa-ecuador): comparativa completa de precio, velocidad y respaldo entre YoTeTraigo y otras opciones del mercado (MundiGroup, Aeropost Ecuador, Laarbox, myKonecta, PRAMISA, Liberty Express, Deblex, SiatiBox, Envibox).
 
@@ -32,5 +33,6 @@ Contacto y cotizacion: WhatsApp +1 (347) 529-5991 (https://wa.me/13475295991). E
 - Entrega: 10-14 dias habiles desde el almacen en Nueva York hasta la puerta en Ecuador. Vuelo directo a Quito, 3 veces por semana. Retiro en Quito incluido; otras ciudades +$10 con seguro via ServiEntrega.
 - Regimen 4x4 / Categoria B (mercaderia general, NO celulares ni laptops): hasta 4kg y $400 FOB por envio, arancel fijo de $20 + FODINFA 0.5%, limite anual de $1,600 USD por persona.
 - Categoria C (celulares y laptops, sin importar el precio): Ad Valorem 0% (arancel eliminado desde 2019), IVA 15%, FODINFA 0.5%, mas un estimado de nacionalizacion e imprevistos. En total, impuestos y tarifas de Categoria C suelen sumar ~25% del valor CIF (producto + flete) como estimado de referencia -- el monto final lo determina el aforo de SENAE/aduana al despachar. Limite: 1 celular nuevo por persona al ano via courier.
+- Categoria G (migrantes ecuatorianos a nucleo familiar registrado en consulado): hasta 4 kg y 1 salario basico unificado en valor, exoneracion de tributos, sin limite de envios; requiere Certificado de Importacion de Envio de Bienes Familiares. YoTeTraigo ayuda a clientes nuevos con el registro. Desde Ecuador se usan B o C.
 - Respaldo: socio oficial de [EquaLatin](https://equalatin.com). Operacion directa desde Nueva York, no solo un intermediario.
 - Cobertura: todo Ecuador, incluyendo Quito y Guayaquil.
